@@ -1,0 +1,12 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    line-height: 1.5;
+    background-color: #351431;
+    color:gray;
+}
+p{
+    color:rgba(209,211,196,1);
+} /* you can use these three methods or you can use the color wheel by clicking on the color box */
+/* note that a stands for transparency with 1 being opaque and 0 stands for transparent */
+/* use coolors for color palletes and contrast checking */
